@@ -4,5 +4,5 @@ This repository contains various Python code snippets, exercises, and small scri
 
 ## Contents
 
-* **`./Basics/`**: Fundamental Python concepts.
-* **`./Pandas/`**: Pandas practice files.
+- **`./Basics/`**: Fundamental Python concepts.
+- **`./Pandas/`**: Pandas practice files.
